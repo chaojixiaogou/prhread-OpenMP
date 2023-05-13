@@ -1,0 +1,3 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“-lpthread”
+  源.cpp
+  n皇后问题回溯算法pthread并行化.vcxproj -> E:\source\repos\n皇后问题回溯算法pthread并行化\Debug\n皇后问题回溯算法pthread并行化.exe
